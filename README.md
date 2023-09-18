@@ -1,9 +1,9 @@
-# Handwriting Matching using Contrastive Learning
+# Signature Matching using Contrastive Learning
 
 - Colab Link [Click Here](https://colab.research.google.com/drive/1aOinxHLbUtqSOjeamu7NrCsplyMhnmlI?usp=sharing)
 # Model
 
-This repository explores the task of handwriting analysis and matching using the power of contrastive learning and Siamese networks. It helps to provide a robust solution for comparing and matching handwriting samples.
+This repository explores the task of signature analysis and matching using the power of contrastive learning and Siamese networks. It helps to provide a robust solution for comparing and matching handwriting samples.
 - <b>Siamese Network:</b> <br>
 ![image](https://github.com/mananchawla2005/handwritingmatchingCL/assets/42414965/a4e49fd0-2365-4be6-b763-eed4dd4d93b6)
 
